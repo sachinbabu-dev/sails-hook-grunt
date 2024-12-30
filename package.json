@@ -30,7 +30,7 @@
   "dependencies": {
     "@sailshq/grunt-contrib-uglify": "^3.2.1",
     "@sailshq/lodash": "^3.10.2",
-    "babel-core": "6.26.3",
+    "babel-core": "7.26.0",
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
     "chalk": "1.1.3",
